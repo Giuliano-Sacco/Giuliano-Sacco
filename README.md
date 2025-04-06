@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Giuliano Sacco 👋<br><br>Soy un joven programador de 23 años de Uruguay, actualmente estudiando Ingeniería en Computación y Economía. Mi enfoque está en el desarrollo Backend, Cloud, DevOps y automatización, y me encanta participar en proyectos que me desafíen a crecer.<br><br>Siempre busco aportar soluciones efectivas a los desafíos técnicos, mientras sigo ampliando mis conocimientos en tecnologías emergentes. 
+. 
 
 
 ## 🌐 Socials:
