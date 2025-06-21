@@ -1,6 +1,30 @@
 # 💫 About Me:
 Software Backend Developer
 
+# 👋 ¡Hola! Soy Giuliano Sacco
+
+🎓 Estudiante de Ingeniería en Computación y Economía en Uruguay, apasionado por la tecnología, los datos y la automatización.
+
+💻 Actualmente estoy trabajando en proyectos personales que combinan backend, análisis económico y automatización de tareas. Me interesa resolver problemas reales con código simple, claro y funcional.
+
+🛠️ Tecnologías con las que estoy trabajando:
+
+- Node.js + Express + MySQL
+- Python (automatización, bots, scraping)
+- Git, GitHub, Linux
+
+📈 Me motiva aprender constantemente y construir herramientas útiles. Tengo una fuerte orientación autodidacta y me involucro a fondo en todo lo que emprendo.
+
+🚀 Estoy abierto a colaboraciones, prácticas o propuestas que me permitan seguir creciendo como desarrollador backend y analista técnico.
+
+📬 Contacto:
+- GitHub: [Giuliano-Sacco](https://github.com/Giuliano-Sacco)
+- Email: gsacco009@gmail.com
+
+---
+🌱 Siempre aprendiendo, siempre creando.
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giulianosacco_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsacco009@gmail.com) 
