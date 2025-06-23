@@ -7,12 +7,6 @@ Software Backend Developer
 
 💻 Actualmente estoy trabajando en proyectos personales que combinan backend, análisis económico y automatización de tareas. Me interesa resolver problemas reales con código simple, claro y funcional.
 
-🛠️ Tecnologías con las que estoy trabajando:
-
-- Node.js + Express + MySQL
-- Python (automatización, bots, scraping)
-- Git, GitHub, Linux
-
 📈 Me motiva aprender constantemente y construir herramientas útiles. Tengo una fuerte orientación autodidacta y me involucro a fondo en todo lo que emprendo.
 
 🚀 Estoy abierto a colaboraciones, prácticas o propuestas que me permitan seguir creciendo como desarrollador backend y analista técnico.
