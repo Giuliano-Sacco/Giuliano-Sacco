@@ -16,7 +16,7 @@ Software Backend Developer
 - Email: gsacco009@gmail.com
 
 ---
-🌱 Siempre aprendiendo, siempre creando.
+
 
 
 
